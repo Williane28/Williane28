@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Williane Pereira 👋
 
 <a href="https://github.com/Williane28/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Williane28&show_icons=true&theme=neon&card_widht=100" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Williane28&show_icons=true&theme=neon&card_widht=50" />
 </a>
 <a href="https://github.com/Williane28/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Williane28&layout=compact&langs_count=8&card_width=100&theme=neon" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Williane28&layout=compact&langs_count=8&card_width=50&theme=neon" />
 </a>
 
 <div style="display: inline_block"><br>
