@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Williane Pereira 👋
 
 <a href="https://github.com/Williane28/github-readme-stats">
-  <img height=200 width="49%"align="center" src="https://github-readme-stats.vercel.app/api?username=Williane28&show_icons=true&theme=neon" />
+  <img height=200 width="46%"align="center" src="https://github-readme-stats.vercel.app/api?username=Williane28&show_icons=true&theme=neon" />
 </a>
 <a href="https://github.com/Williane28/convoychat">
   <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Williane28&layout=compact&langs_count=8&theme=neon" />
